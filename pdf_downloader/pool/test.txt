@@ -1,0 +1,27 @@
+[151] K. Konda and R. Memisevic, "Learning visual odometry with a convolutional network," in Interna- 
+  tional Conference on Computer Vision Theory and Applications, 2015.
+[152] A. Kendall, M. Grimes, and R. Cipolla, "Posenet: A convolutional network for real-time 6-dof cam- 
+  era relocalization," in Proceedings of the IEEE International Conference on Computer Vision, p- 
+  p. 2938-2946, 2015.
+[153] Y. Hou, H. Zhang, and S. Zhou, "Convolutional neural network-based image representation for visual 
+  loop closure detection," arXiv preprint arXiv: 1504.05241, 2015.
+[154] S. Y. An, J. G. Kang, L. K. Lee, and S. Y. Oh, "Line segment-based indoor mapping with salient line 
+  feature extraction," Advanced Robotics, vol. 26, no. 5-6, pp. 437-460, 2012.
+[155] H. Zhou, D. Zou, L. Pei, R. Ying, P. Liu, and W. Yu, "Structslam: Visual slam with building structure 
+  lines," Vehicular Technology, IEEE Transactions on, vol. 64, pp. 1364-1375, April 2015.
+[156] D. Benedettelli, A. Garulli, and A. Giannitrapani, "Cooperative slam using m-space representation of 
+  linear features," Robotics and Autonomous Systems, vol. 60, no. 10, pp. 1267-1278, 2012.
+[157] J. P. Saarinen, H. Andreasson, T. Stoyanov, and A. J. Lilienthal, "3d normal distributions transform oc- 
+  cupancy maps: An efficient representation for mapping in dynamic environments," The International 
+  Journal of Robotics Research, vol. 32, no. 14, pp. 1627-1644, 2013.
+[158] W. Maddern, M. Milford, and G. Wyeth, "Cat-slam: probabilistic localisation and mapping using a 
+  continuous appearance-based trajectory," International Journal of Robotics Research, vol. 31, no. 4S1, 
+  pp. 429-451, 2012.
+[159] H. Wang, Z.-G. Hou, L. Cheng, and M. Tan, "Online mapping with a mobile robot in dynamic and 
+  unknown environments," International Journal of Modelling, Identification and Control, vol. 4, no. 4, 
+  pp. 415-423, 2008.
+[160] D. Zou and P. Tan, "Coslam: Collaborative visual SLAM in dynamic environments," IEEE Transac- 
+  tions On Pattern Analysis And Machine Intelligence, vol. 35, no. 2, pp. 354-366, 2013.
+[161] T. A. Vidal-Calleja, C. Berger, J. Sola, and S. Lacroix, "Large scale multiple robot visual mapping 
+  with heterogeneous landmarks in semi-structured terrain," Robotics and Autonomous Systems, vol. 59, 
+  no. 9, pp. 654-674, 2011.
